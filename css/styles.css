@@ -1,9 +1,9 @@
 body {
-    color: #3C2317;
+    color: black;
     text-align: center;
     font-family: 'Paprika', cursive;
     margin-top: 50px;
-    background-color: #F5EFE6;
+    background-color: white;
 }
 
 h1{
@@ -28,19 +28,19 @@ h3{
 }
 
 .card{
-    border-radius: 2em;
-    box-shadow: 0 5px 10px rgba(0,0,0,.2);
-    background-color: #F5EFE6;
+    border-radius: 1em;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.059);
+    background-color: white;
 }
 
 .carousel-control-next{
-    color: #628E90;
+    color: black;
     border-bottom: 0;
     text-decoration: none;
 }
 
 .carousel-control-prev{
-    color: #628E90;
+    color: black;
     border-bottom: 0;
     text-decoration: none;
 }
@@ -64,11 +64,11 @@ h3{
 }
 
 .profile-img{
-    border-radius: 50% 20% / 10% 40%;
+    border-radius: 35% 20% / 10% 25%;
 }
 
 .section-title{
-    color: #628E90;
+    color: white;
 }
 
 .skill-row{
@@ -76,7 +76,7 @@ h3{
 }
 
 #navbar{
-    background-color: #F5EFE6;
+    background-color: black;
     padding: 0% 3%;
     position: fixed; 
     z-index: 99;
@@ -86,13 +86,14 @@ h3{
 
 
 #title {
-    background-color: #F5EFE6;
+    background-color: white;
+    padding: 5%;
 }
 
 
 #Projects{
-    background-color: #B4CDE6;
-    padding: 3% 3%;
+    background-color: black;
+    padding: 5%;
 }
 
 .project-column{
@@ -100,18 +101,19 @@ h3{
 }
 
 #Work-History{
-    background-color: #F5EFE6;
-    padding: 3% 3%;
+    background-color: white;
+    padding: 5%;
 }
 
 #Skills{
-    background-color: #B4CDE6;
-    padding: 3% 3%;
+    background-color: black;
+    color: white;
+    padding: 5%;
 }
 
 #Footer{
-    padding-top: 3%;
-    background-color: #F5EFE6
+    padding-top: 5%;
+    background-color: white;
 }
 
 .footer-row{
@@ -119,15 +121,15 @@ h3{
 }
 
 .btn-outline-dark {
-    border-color: #3C2317;
+    border-color: black;
 }
 
 .btn-outline-dark:hover {
-    border-color: #3C2317;
+    border-color: black;
     background-color: #fff;
 }
 
 a{
-    color: #3C2317;   
+    color: black;   
     text-decoration: none;
 }
