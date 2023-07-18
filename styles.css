@@ -1,0 +1,135 @@
+body {
+    color: black;
+    text-align: center;
+    font-family: 'Paprika', cursive;
+    margin-top: 50px;
+    background-color: white;
+}
+
+h1{
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 900;
+    padding-bottom: 2rem;
+}
+
+h2{
+    font-size: 2rem;
+    line-height: 1.25;
+    font-weight: 900;
+    padding-bottom: 1.5rem;
+}
+
+h3{
+    font-size: 1.5rem;
+    line-height: 1.25;
+    font-weight: 900;
+    padding-bottom: .5rem;
+}
+
+.card{
+    border-radius: 1em;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.059);
+    background-color: white;
+}
+
+.carousel-control-next{
+    color: black;
+    border-bottom: 0;
+    text-decoration: none;
+}
+
+.carousel-control-prev{
+    color: black;
+    border-bottom: 0;
+    text-decoration: none;
+}
+
+.carousel-item{
+    padding: 3% 7%;
+}
+
+.container-fluid{
+    padding: 3% 10%;
+}
+
+.header-fluid{
+    padding: 3%;
+}
+
+.h2-card-header{
+    font-size: 2rem;
+    font-weight: 900;
+    padding-bottom: 0;
+}
+
+.profile-img{
+    border-radius: 35% 20% / 10% 25%;
+}
+
+.section-title{
+    color: white;
+}
+
+.skill-row{
+    padding-top: 3%
+}
+
+#navbar{
+    background-color: black;
+    padding: 0% 3%;
+    position: fixed; 
+    z-index: 99;
+    top: 0;
+    width: 100%;
+}
+
+
+#title {
+    background-color: white;
+    padding: 5%;
+}
+
+
+#Projects{
+    background-color: black;
+    padding: 5%;
+}
+
+.project-column{
+    padding: 3% 2%;
+}
+
+#Work-History{
+    background-color: white;
+    padding: 5%;
+}
+
+#Skills{
+    background-color: black;
+    color: white;
+    padding: 5%;
+}
+
+#Footer{
+    padding-top: 5%;
+    background-color: white;
+}
+
+.footer-row{
+    padding: 0% 3% 3%;
+}
+
+.btn-outline-dark {
+    border-color: black;
+}
+
+.btn-outline-dark:hover {
+    border-color: black;
+    background-color: #fff;
+}
+
+a{
+    color: black;   
+    text-decoration: none;
+}
